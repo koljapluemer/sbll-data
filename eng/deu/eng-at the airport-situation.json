@@ -1,0 +1,25 @@
+{
+  "procedural-paraphrase-expression-goals": [
+    {
+      "finalChallenge": "eng:ask in which direction gate six is",
+      "needToBeLearned": [
+        "eng:six",
+        "eng:gate",
+        "eng:ask in which direction _ is",
+        "eng:which",
+        "eng:direction"
+      ],
+      "references": [
+        "eng:ask in which direction gate six is",
+        "eng:six",
+        "deu:sechs",
+        "eng:gate",
+        "eng:ask in which direction _ is",
+        "eng:which",
+        "eng:direction",
+        "deu:Wo ist Terminal sechs"
+      ]
+    }
+  ],
+  "understand-expression-goals": []
+}
