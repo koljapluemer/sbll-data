@@ -1,0 +1,12 @@
+{
+  "procedural-paraphrase-expression-goals": [
+    {
+      "finalChallenge": "eng:ask what the thing you're pointing at is",
+      "needToBeLearned": [],
+      "references": [
+        "eng:ask what the thing you're pointing at is"
+      ]
+    }
+  ],
+  "understand-expression-goals": []
+}

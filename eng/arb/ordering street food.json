@@ -1,5 +1,14 @@
 {
-  "procedural-paraphrase-expression-goals": [],
+  "procedural-paraphrase-expression-goals": [
+    {
+      "finalChallenge": "eng:ask what the thing you're pointing at is",
+      "needToBeLearned": [],
+      "references": [
+        "eng:ask what the thing you're pointing at is",
+        "arb:شو هادا؟"
+      ]
+    }
+  ],
   "understand-expression-goals": [
     {
       "finalChallenge": "arb:بتشرب شي؟",
