@@ -5,9 +5,7 @@
       "needToBeLearned": [
         "eng:six",
         "eng:gate",
-        "eng:ask in which direction _ is",
-        "eng:which",
-        "eng:direction"
+        "eng:ask in which direction _ is"
       ],
       "references": [
         "eng:ask in which direction gate six is",
