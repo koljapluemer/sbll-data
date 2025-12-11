@@ -1,0 +1,283 @@
+{
+  "procedural-paraphrase-expression-goals": [],
+  "understand-expression-goals": [
+    {
+      "finalChallenge": "spa:¿Puedes pasarme la sal",
+      "needToBeLearned": [
+        "spa:pasar",
+        "spa:me",
+        "spa:la",
+        "spa:sal"
+      ],
+      "references": [
+        "spa:¿Puedes pasarme la sal",
+        "spa:pasar",
+        "spa:me",
+        "spa:la",
+        "spa:sal"
+      ]
+    },
+    {
+      "finalChallenge": "spa:¿Cómo prefieres el punto de la carne",
+      "needToBeLearned": [
+        "spa:prefieres",
+        "spa:el",
+        "spa:punto",
+        "spa:de",
+        "spa:la",
+        "spa:carne"
+      ],
+      "references": [
+        "spa:¿Cómo prefieres el punto de la carne",
+        "spa:prefieres",
+        "spa:el",
+        "spa:punto",
+        "spa:de",
+        "spa:la",
+        "spa:carne"
+      ]
+    },
+    {
+      "finalChallenge": "spa:¿Te gustaría probar esto",
+      "needToBeLearned": [
+        "spa:te",
+        "spa:gustar-a",
+        "spa:probar",
+        "spa:esto"
+      ],
+      "references": [
+        "spa:¿Te gustaría probar esto",
+        "spa:te",
+        "spa:gustar-a",
+        "spa:gustar",
+        "spa:ía",
+        "spa:probar",
+        "spa:esto"
+      ]
+    },
+    {
+      "finalChallenge": "spa:Vamos a picar las verduras",
+      "needToBeLearned": [
+        "spa:vamos",
+        "spa:a",
+        "spa:picar",
+        "spa:las",
+        "spa:verduras"
+      ],
+      "references": [
+        "spa:Vamos a picar las verduras",
+        "spa:vamos",
+        "spa:a",
+        "spa:picar",
+        "spa:las",
+        "spa:verduras"
+      ]
+    },
+    {
+      "finalChallenge": "spa:¿Estás listo para servir",
+      "needToBeLearned": [
+        "spa:¿Estás",
+        "spa:listo",
+        "spa:para",
+        "spa:servir"
+      ],
+      "references": [
+        "spa:¿Estás listo para servir",
+        "spa:¿Estás",
+        "spa:listo",
+        "spa:para",
+        "spa:servir"
+      ]
+    },
+    {
+      "finalChallenge": "spa:puedes-pasarme-el-cuchillo",
+      "needToBeLearned": [
+        "spa:puedes",
+        "spa:pasarme",
+        "spa:el",
+        "spa:cuchillo"
+      ],
+      "references": [
+        "spa:puedes-pasarme-el-cuchillo",
+        "spa:puedes",
+        "spa:pasarme",
+        "spa:pasar",
+        "spa:me",
+        "spa:el",
+        "spa:cuchillo"
+      ]
+    },
+    {
+      "finalChallenge": "spa:te-gustar-a-probar-esto",
+      "needToBeLearned": [
+        "spa:te",
+        "spa:gustar-a",
+        "spa:probar",
+        "spa:esto"
+      ],
+      "references": [
+        "spa:te-gustar-a-probar-esto",
+        "spa:te",
+        "spa:gustar-a",
+        "spa:gustar",
+        "spa:ía",
+        "spa:probar",
+        "spa:esto"
+      ]
+    },
+    {
+      "finalChallenge": "spa:necesitamos-m-s-sal",
+      "needToBeLearned": [
+        "spa:necesitamos",
+        "spa:m-s",
+        "spa:sal"
+      ],
+      "references": [
+        "spa:necesitamos-m-s-sal",
+        "spa:necesitamos",
+        "spa:m-s",
+        "spa:sal"
+      ]
+    },
+    {
+      "finalChallenge": "spa:c-mo-prefieres-la-carne-bien-hecha-o-poco-hecha",
+      "needToBeLearned": [
+        "spa:c-mo",
+        "spa:prefieres",
+        "spa:la",
+        "spa:carne",
+        "spa:bien",
+        "spa:hecha",
+        "spa:o",
+        "spa:poco"
+      ],
+      "references": [
+        "spa:c-mo-prefieres-la-carne-bien-hecha-o-poco-hecha",
+        "spa:c-mo",
+        "spa:¿",
+        "spa:Cómo",
+        "spa:prefieres",
+        "spa:la",
+        "spa:carne",
+        "spa:bien",
+        "spa:hecha",
+        "spa:o",
+        "spa:poco"
+      ]
+    },
+    {
+      "finalChallenge": "spa:voy-a-picar-las-verduras-quieres-ayudarme",
+      "needToBeLearned": [
+        "spa:voy-a",
+        "spa:picar",
+        "spa:las-verduras",
+        "spa:quieres",
+        "spa:ayudarme"
+      ],
+      "references": [
+        "spa:voy-a-picar-las-verduras-quieres-ayudarme",
+        "spa:voy-a",
+        "spa:Voy",
+        "spa:a",
+        "spa:picar",
+        "spa:las-verduras",
+        "spa:las",
+        "spa:verduras",
+        "spa:quieres",
+        "spa:ayudarme",
+        "spa:ayudar",
+        "spa:me"
+      ]
+    },
+    {
+      "finalChallenge": "spa:¿Qué ingredientes necesitamos",
+      "needToBeLearned": [
+        "spa:ingredientes"
+      ],
+      "references": [
+        "spa:¿Qué ingredientes necesitamos",
+        "spa:ingredientes"
+      ]
+    },
+    {
+      "finalChallenge": "spa:¿Cómo se prepara esta receta",
+      "needToBeLearned": [
+        "spa:se",
+        "spa:prepara",
+        "spa:esta"
+      ],
+      "references": [
+        "spa:¿Cómo se prepara esta receta",
+        "spa:se",
+        "spa:prepara",
+        "spa:esta"
+      ]
+    },
+    {
+      "finalChallenge": "spa:¿Me puedes pasar el cuchillo, por favor",
+      "needToBeLearned": [
+        "spa:el cuchillo"
+      ],
+      "references": [
+        "spa:¿Me puedes pasar el cuchillo, por favor",
+        "spa:el cuchillo"
+      ]
+    },
+    {
+      "finalChallenge": "spa:¿Cuánto tiempo debe cocinarse",
+      "needToBeLearned": [
+        "spa:¿Cuánto",
+        "spa:tiempo",
+        "spa:debe",
+        "spa:cocinarse"
+      ],
+      "references": [
+        "spa:¿Cuánto tiempo debe cocinarse",
+        "spa:¿Cuánto",
+        "spa:tiempo",
+        "spa:debe",
+        "spa:cocinarse"
+      ]
+    },
+    {
+      "finalChallenge": "spa:¿Te gusta esta combinación de sabores",
+      "needToBeLearned": [
+        "spa:gusta",
+        "spa:esta",
+        "spa:combinación",
+        "spa:de"
+      ],
+      "references": [
+        "spa:¿Te gusta esta combinación de sabores",
+        "spa:gusta",
+        "spa:esta",
+        "spa:combinación",
+        "spa:de"
+      ]
+    },
+    {
+      "finalChallenge": "spa:Ya está",
+      "needToBeLearned": [
+        "spa:Ya",
+        "spa:está"
+      ],
+      "references": [
+        "spa:Ya está",
+        "spa:Ya",
+        "spa:está"
+      ]
+    },
+    {
+      "finalChallenge": "spa:dale nomás",
+      "needToBeLearned": [
+        "spa:dale",
+        "spa:nomás"
+      ],
+      "references": [
+        "spa:dale nomás",
+        "spa:dale",
+        "spa:nomás"
+      ]
+    }
+  ]
+}
