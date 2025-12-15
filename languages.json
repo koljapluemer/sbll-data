@@ -11,6 +11,10 @@
     "displayName": "English",
     "symbol": "EN"
   },
+  "ita": {
+    "displayName": "Italian",
+    "symbol": "🇮🇹"
+  },
   "spa": {
     "displayName": "Spanish",
     "symbol": "🇲🇽"
