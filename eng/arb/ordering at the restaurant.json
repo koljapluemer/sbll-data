@@ -1,0 +1,12 @@
+{
+  "procedural-paraphrase-expression-goals": [
+    "eng:inquire about the daily specials available",
+    "eng:ask for the check at the end of the meal"
+  ],
+  "understand-expression-goals": [
+    "arb:هل تريد شيئاً آخر؟",
+    "arb:ما هو طلبك اليوم؟",
+    "arb:هل تفضل المشروبات الغازية أم الطبيعية؟",
+    "arb:هل لديك أي حساسية تجاه الطعام؟"
+  ]
+}
