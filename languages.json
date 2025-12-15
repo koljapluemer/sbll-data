@@ -1,0 +1,18 @@
+{
+  "arb": {
+    "displayName": "Levantine Arabic",
+    "symbol": "ARB"
+  },
+  "deu": {
+    "displayName": "German",
+    "symbol": "DE"
+  },
+  "eng": {
+    "displayName": "English",
+    "symbol": "EN"
+  },
+  "spa": {
+    "displayName": "Spanish",
+    "symbol": "🇲🇽"
+  }
+}
