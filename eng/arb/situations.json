@@ -1,6 +1,8 @@
 {
+  "communicate that you don't speak the language very well": false,
   "finding your way at the airport": true,
   "ordering at the restaurant": false,
   "ordering coffee at a local café": false,
-  "ordering shawarma": true
+  "ordering shawarma": true,
+  "watching the news": false
 }
