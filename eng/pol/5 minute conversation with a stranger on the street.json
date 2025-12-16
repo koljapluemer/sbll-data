@@ -1,0 +1,10 @@
+{
+  "procedural-paraphrase-expression-goals": [
+    "eng:compliment a stranger on their outfit or accessories",
+    "eng:inquire about the local weather from a passerby",
+    "eng:ask a stranger about their favorite place in the city"
+  ],
+  "understand-expression-goals": [
+    "pol:Przepraszam, czy mógłbyś mi pomóc"
+  ]
+}

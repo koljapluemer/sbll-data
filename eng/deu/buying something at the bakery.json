@@ -1,5 +1,7 @@
 {
-  "procedural-paraphrase-expression-goals": [],
+  "procedural-paraphrase-expression-goals": [
+    "eng:ask if there are any special offers today"
+  ],
   "understand-expression-goals": [
     "deu:Guten Morgen! Was kann ich für Sie tun",
     "deu:Haben Sie schon unsere frischen Brötchen probiert",

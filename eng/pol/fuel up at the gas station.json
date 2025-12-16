@@ -1,0 +1,11 @@
+{
+  "procedural-paraphrase-expression-goals": [
+    "eng:ask for the price of fuel at the gas station"
+  ],
+  "understand-expression-goals": [
+    "pol:Czy ma panpani kartę lojalnościową",
+    "pol:Proszę zatankować do pełna",
+    "pol:Paliwo do samochodu jest po lewej stronie",
+    "pol:Czy chce panpani płacić kartą czy gotówką"
+  ]
+}

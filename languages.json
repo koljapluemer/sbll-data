@@ -11,9 +11,17 @@
     "displayName": "English",
     "symbol": "EN"
   },
+  "fin": {
+    "displayName": "Finnish (Suomi)",
+    "symbol": "🇫🇮"
+  },
   "ita": {
     "displayName": "Italian",
     "symbol": "🇮🇹"
+  },
+  "pol": {
+    "displayName": "Polish",
+    "symbol": "🇵🇱"
   },
   "por": {
     "displayName": "Portugese",
