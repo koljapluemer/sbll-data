@@ -27,6 +27,10 @@
     "displayName": "Portugese",
     "symbol": "🇧🇷"
   },
+  "rus": {
+    "displayName": "Russian",
+    "symbol": "🇷🇺"
+  },
   "spa": {
     "displayName": "Spanish",
     "symbol": "🇲🇽"
