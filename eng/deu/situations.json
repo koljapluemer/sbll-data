@@ -1,5 +1,6 @@
 {
   "5 minute conversation with a stranger on the street": true,
   "asking for a word or translation": true,
+  "asking for tourist recommendations": false,
   "buying something at the bakery": false
 }
