@@ -4,10 +4,10 @@
     "eng:inquire about the local weather from a passerby"
   ],
   "understand-expression-goals": [
-    "spa:¿Tienes un momento para charlar",
-    "spa:¿Sabes dónde está la estación de metro más cercana",
-    "spa:Hace buen tiempo hoy, ¿verdad",
-    "spa:¿De dónde eres",
-    "spa:¿Has probado la comida de aquí"
+    "spa:¿Tienes un momento para charlar﹖",
+    "spa:¿Sabes dónde está la estación de metro más cercana﹖",
+    "spa:Hace buen tiempo hoy, ¿verdad﹖",
+    "spa:¿De dónde eres﹖",
+    "spa:¿Has probado la comida de aquí﹖"
   ]
 }

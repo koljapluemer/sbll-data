@@ -1,0 +1,18 @@
+eng:5 minute conversation with a stranger on the street
+eng:asking for a word or translation
+eng:asking for tourist recommendations
+eng:buying something at the bakery
+eng:checking into a hostel
+eng:communicate that you don't speak the language very well
+eng:cooking together with someone
+eng:crossing the border in your own car
+eng:finding your way at the airport
+eng:fuel up at the gas station
+eng:haggling with the taxi driver
+eng:meeting a stranger who appears in trouble
+eng:ordering at the restaurant
+eng:ordering coffee at a local café
+eng:ordering shawarma
+eng:start a business meeting
+eng:talk about your Arabic learning journey
+eng:watching the news

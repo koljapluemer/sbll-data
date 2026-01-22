@@ -4,12 +4,12 @@
     "eng:ask if there are any special offers today"
   ],
   "understand-expression-goals": [
-    "deu:Guten Morgen! Was kann ich für Sie tun",
-    "deu:Haben Sie schon unsere frischen Brötchen probiert",
+    "deu:Guten Morgen! Was kann ich für Sie tun﹖",
+    "deu:Haben Sie schon unsere frischen Brötchen probiert﹖",
     "deu:Wir haben heute auch leckere Croissants im Angebot",
-    "deu:Möchten Sie etwas Süßes, wie einen Kuchen oder ein Stück Torte",
+    "deu:Möchten Sie etwas Süßes, wie einen Kuchen oder ein Stück Torte﹖",
     "deu:Das macht zusammen 5 Euro, bitte",
-    "deu:Möchten Sie eine Tüte dazu",
+    "deu:Möchten Sie eine Tüte dazu﹖",
     "deu:Vielen Dank! Einen schönen Tag noch!",
     "deu:Wir akzeptieren auch Kreditkarten"
   ]
